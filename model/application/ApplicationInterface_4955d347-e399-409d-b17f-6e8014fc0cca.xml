@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiserings-API"
+    id="4955d347-e399-409d-b17f-6e8014fc0cca"
+    documentation="Et API som tilgjengeliggjør modeller slik at harvester i nasjonal Felles Modellkatalog kan hente modell-katalog og modeller fra."/>

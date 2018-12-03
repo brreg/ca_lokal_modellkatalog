@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrepsklient"
+    id="ce3b690f-6696-4e29-952d-9c639b3385d4"
+    documentation="Sub-komponent som &quot;importerer&quot; begrep fra lokal begrepskatalog og felles begrepskatalog."/>

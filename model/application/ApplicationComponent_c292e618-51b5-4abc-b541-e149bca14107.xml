@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modellbeskrivelse-applikasjon"
+    id="c292e618-51b5-4abc-b541-e149bca14107"
+    documentation="Applikasjon (Jira) som inneholder meta-data om hver modell, også publiseringsstatus. Har REST-API som kan eksponere modellbeskrivelser."/>

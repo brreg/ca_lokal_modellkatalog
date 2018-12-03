@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modell-publiserer"
+    id="8643ea09-51b1-4210-b9fd-fec8d675d210"
+    documentation="Applikasjon som inneholder funksjonalitet for&#xD;&#xA;1. Ekstrakt,&#xD;&#xA;2. Transform, og&#xD;&#xA;3. Tilgjengeliggjøring&#xD;&#xA;&#xD;&#xA;1. Ekstrakt:&#xD;&#xA;Henter modeller fra &#xD;&#xA;- Modellbeskrivelse-applikasjon (jira), &#xD;&#xA;- intern Modellforvaltningsapplikasjon (MagicDraw)&#xD;&#xA;&#xD;&#xA;2. Transform:&#xD;&#xA;Sammenstiller modellbeskrivelser (Jira) og modell (MagicDraw) og genererer&#xD;&#xA;- modell-beskrivelser pr modell(standard er på veg.), samt&#xD;&#xA;- ett katalog-object (ADMS) som inkluderer pekere til alle modellene.&#xD;&#xA;&#xD;&#xA;3. Tilgjengeliggjøring&#xD;&#xA;Tilbyr et enkelt REST-API der man kan gjøre GET på katalog-objektet, feks GET https://data.brreg.no/modeller og GET på modell-objekter, feks GET https://data.brreg.no/modeller/modellIdXYZ (likt som API-katalog)&#xD;&#xA;Alternativt: Viss man kan legge alle modell-beskrivelsene inn i katalog-objektet, slipper man GET av enkelt-modeller (likt som begrepspubliserer)."/>
